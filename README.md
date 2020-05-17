@@ -4,6 +4,16 @@ For more details, please see the publication "Automated Scoring of Clinical Expr
 
 Citations:
 
+```
+@inproceedings{Peters:2018,
+  author={Peters, Matthew E. and  Neumann, Mark and Iyyer, Mohit and Gardner, Matt and Clark, Christopher and Lee, Kenton and Zettlemoyer, Luke},
+  title={Deep contextualized word representations},
+  booktitle={Proc. of NAACL},
+  year={2018}
+}
+```
+
+
 '''
 @inproceedings{wang2020,
   title={Automated scoring of clinical expressive language evaluation tasks},
