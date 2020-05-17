@@ -2,7 +2,7 @@
 
 For more details, please see the publication "Automated Scoring of Clinical Expressive Language Evaluation Tasks", NLPBEA 2020.
 
-Citations:
+Citation:
 
 ```
 @inproceedings{wang2020,
