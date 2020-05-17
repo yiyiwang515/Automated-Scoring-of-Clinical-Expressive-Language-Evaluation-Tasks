@@ -4,6 +4,7 @@ For more details, please see the publication "Automated Scoring of Clinical Expr
 
 Citations:
 
+'''
 @inproceedings{wang2020,
   title={Automated scoring of clinical expressive language evaluation tasks},
   author={Wang, Yiyi and Emily, Prud'hommeaux and Meysam, Asgari and Jill Dolata},
@@ -11,3 +12,4 @@ Citations:
   pages={1--10},
   year={2020}
 }
+'''
