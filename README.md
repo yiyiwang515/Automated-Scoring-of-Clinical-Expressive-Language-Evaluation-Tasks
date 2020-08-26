@@ -2,11 +2,6 @@
 
 For more details, please see the publication "Automated Scoring of Clinical Expressive Language Evaluation Tasks", NLPBEA 2020.
 
-Datasets: 
-1. Mturk Formulated Sentence
-2. COCO Train/Val annotations (http://images.cocodataset.org/annotations/annotations_trainval2017.zip)
-3. FCE (https://ilexir.co.uk/datasets/index.html)
-
 Citation:
 
 ```
@@ -18,3 +13,8 @@ Citation:
   year={2020}
 }
 ```
+
+Datasets: 
+1. Mturk Formulated Sentence
+2. COCO Train/Val annotations (http://images.cocodataset.org/annotations/annotations_trainval2017.zip)
+3. FCE (https://ilexir.co.uk/datasets/index.html)
